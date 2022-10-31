@@ -1,0 +1,41 @@
+.cardContainer{
+    background: #eee;
+    width: 31.2em;
+    height: 2.9em;
+    font-size: .8em;
+    justify-content: start;
+    align-items: center;
+    cursor: pointer;
+    margin: 0em;
+    z-index: 10;
+    border: .08em solid #222;
+    border-top: 0em solid #222;
+    display: flex;
+}
+
+.cardContainer:hover{
+    background: #ccc;
+}
+
+
+
+.cardContainer h2{
+    color: #222;
+    margin-left: 1.3em;
+}
+.cardContainer:hover h2{
+    color: #000;
+}
+
+@media only screen and (min-width: 700px){
+    .cardContainer{
+        height: 2.3em;
+        width: 39.7em ;
+        font-size: 1em;
+    }
+}
+
+
+
+
+    
