@@ -144,7 +144,7 @@ console.log(api)
         <h5 style={{ color: `#${themeTwo}` }}>{temperatura}°C</h5>
       </div>
       <Svg2 oneTheme={themeOne} />
-      <div ref={refCardsDate} style={{background:`linear-gradient(to top,#${themeThree},#${themeOne}aa)`}} className='boxBottom_container'>
+      <div ref={refCardsDate} style={{background:`linear-gradient(to top,#${themeThree},#${themeOne}77)`}} className='boxBottom_container'>
         <div className='boxBottom' ref={refCardsDate}>
           <CardData sty={themeTwo} icon={Clouds()} date={`${nubes} % de nubosidad`} />
           <CardData sty={themeTwo} icon={Wind()} date={`${vientoSpeed} Km/h`} />

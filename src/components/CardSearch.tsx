@@ -10,9 +10,7 @@ const clickCard = (e:any) => {
   setLat(lat1)
   setInput((e:any)=>e="")
   setNameCity(e.target.textContent)
-//  setTimeout(() => {
-//   setApi([])
-//  }, 300);
+
 refDeployed.current.classList.toggle("active3",false)
   refCardsDate.current.firstChild.classList.toggle("active",true)
   refMain.current.classList.toggle("active2",true)
