@@ -1,4 +1,3 @@
-import '../../styles/animationIcons.css'
 import clear from './clear-day.svg'
 import clouds from './cloudy.svg'
 import rain from './rain-and-sleet-mix.svg'
@@ -10,6 +9,8 @@ import humiditySta from './humedad.svg'
 import arrowSta from './arrow.svg'
 import minTempSta from './min-temperature.svg'
 import maxTempSta from './max-temperature.svg'
+import amanecer from './sunrise.svg'
+import atardecer from './sunset.svg'
 
 export const AnimationClear = () => clear
 export const AnimationClouds = () => clouds
@@ -22,3 +23,5 @@ export const Humidity = () => humiditySta
 export const Arrow = () => arrowSta
 export const MinTemp = () => minTempSta
 export const MaxTemp = () => maxTempSta
+export const sunriseIcon = () => amanecer
+export const sunsetIcon = () => atardecer

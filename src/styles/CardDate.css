@@ -1,33 +1,25 @@
-.containerDate{
+.containerDate {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 50vw;
-    /* background-color: blueviolet; */
-    /* flex-wrap: nowrap; */
-    
     z-index: 1000;
 }
 
-.containerDate > img{
-/* background-color: blue; */
-/* color:red; */
-}
 
-.containerDate > h4 {
+
+.containerDate>h4 {
     margin-top: 1em;
     font-size: 1.5em;
-    
     font-weight: 500;
     text-align: center;
 }
 
-@media only screen and ( min-width :1270px){
-.containerDate{
-    width:  13.5em;
-}
+@media only screen and (min-width :1000px) {
+    .containerDate {
+        width: 25vw;
+    }
 
 
 }
-
