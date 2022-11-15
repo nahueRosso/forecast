@@ -8,7 +8,8 @@
 
 ## **Buscador**
 ---
->![algo](./src/assets/buscador.png) 
+
+![buscador](https://user-images.githubusercontent.com/103513335/201827874-6c5de7af-2387-49c0-8b71-540e6bd63ce7.png)
  >#### Para hacer una búsquedas mas precisa y teniendo en cuenta que para buscar un país con la api de openWeather  se requiere escribirlo con la normalización  ISO1366. Utilizo un json que convierte el país en su respectiva normalización
 
 
