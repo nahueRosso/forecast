@@ -1,6 +1,6 @@
 # pronóstico del tiempo "weateher to time"
 
-> https://user-images.githubusercontent.com/103513335/201820819-83ff3ddf-ccfb-46ec-ae37-0c34edc76a03.mp4
+> https://user-images.githubusercontent.com/103513335/201829659-83642298-fb9a-4ebe-9ccf-80573769c47a.mp4
 
 ### este pronóstico del tiempo se especializa en el pronóstico del tiempo diario.
 
